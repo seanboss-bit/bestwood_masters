@@ -1,4 +1,7 @@
 import About from "./components/About";
+import CEO from "./components/CEO";
+import Contact from "./components/Contact";
+import History from "./components/History";
 import Map from "./components/Map";
 import Navbar from "./components/Navbar";
 import Showcase from "./components/Showcase";
@@ -12,6 +15,9 @@ function App() {
       <Story />
       <Map />
       <About />
+      <CEO />
+      <History />
+      <Contact />
     </>
   );
 }

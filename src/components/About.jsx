@@ -24,7 +24,7 @@ const About = () => {
             <img
               src="https://images.pexels.com/photos/1450078/pexels-photo-1450078.jpeg?auto=compress&cs=tinysrgb&w=600"
               alt="#wood_pic"
-              className="w-fit md:h-[500px] rounded-lg border-[10px] object-contain"
+              className="w-fit md:h-[500px] rounded-3xl border-[10px] object-contain"
             />
           </div>
         </div>
@@ -59,7 +59,7 @@ const About = () => {
           <img
             src="https://images.pexels.com/photos/1179237/pexels-photo-1179237.jpeg?auto=compress&cs=tinysrgb&w=600"
             alt="#"
-            className="w-full h-[300px] object-cover rou"
+            className="w-full h-[300px] object-cover"
           />
         </div>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mt-9">
